@@ -1,0 +1,23 @@
+#upperBar {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;  
+  margin: 20px;
+}
+
+#main {
+  display: flex;
+  flex-direction: column;
+  
+  
+  padding: 20px;
+  align-items: center;
+}
+
+button {
+  margin-left: 12px;
+}
+
+.cursor {
+  cursor: pointer; 
+}
